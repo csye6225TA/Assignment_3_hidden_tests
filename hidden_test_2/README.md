@@ -20,8 +20,8 @@ get_count,chairs
 add,3,chairs
 save_data,
 get_count,books
-load_data,-1
+load_data,csye
 remove,2,chairs
 get_count,chairs
-delete_data,-404
+delete_data,csye
 ```
