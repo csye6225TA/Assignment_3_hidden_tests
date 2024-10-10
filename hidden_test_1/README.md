@@ -2,8 +2,6 @@
 
 ## APIs tested
 
-Each line in the CSV file represents a command for the inventory system:
-
 - `define_stuff`
 - `add`
 - `remove`
